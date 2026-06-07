@@ -19,7 +19,7 @@ export default function FeedCard() {
       <div className="flex items-center gap-4">
         <img src={bowl} className="h-[70px] w-[104px]" alt="Food bowl" />
         <div>
-          <h3 className="font-inter text-[24px] font-extrabold text-ink">Feed Jowok</h3>
+          <h3 className="font-inter text-[24px] font-extrabold text-ink">Feed Yosaw</h3>
           <p className="mt-1 font-inter text-[13px] font-medium text-ink">Give a meal now</p>
           <p className="mt-1 max-w-[140px] font-inter text-[12px] font-medium leading-tight text-[#8A625B]">
             Manual feeding outside schedule
