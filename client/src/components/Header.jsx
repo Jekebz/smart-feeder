@@ -30,7 +30,7 @@ export default function Header() {
   return (
     <header className="mb-[14px] flex items-start justify-between pl-3">
       <div>
-        <h1 className="font-imprima text-[42px] font-normal leading-[1] text-[#211915] md:text-[52px]">Halo! Ria</h1>
+        <h1 className="font-imprima text-[42px] font-semibold leading-[1] text-[#211915] md:text-[52px]">Halo! Ria</h1>
         <p className="mt-1 font-inter text-[18px] font-medium text-muted">Furry mu lagi ngapain yah?</p>
       </div>
       <div className="mr-[11px] mt-[-1px] h-[115px] w-[245px] rounded-[17px] border border-line bg-white/75 px-5 py-4 shadow-soft overflow-y-auto">

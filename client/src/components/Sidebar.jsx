@@ -1,6 +1,6 @@
 import { FaCalendarAlt, FaChartPie, FaCog, FaHeart, FaHome, FaRegClock } from "react-icons/fa";
-import avatar from "../assets/cat-avatar.svg";
-import paw from "../assets/paw.svg";
+import avatar from "../assets/jomok.png";
+import paw from "../assets/paws.png";
 
 const nav = [
   ["Dashboard", FaHome],
@@ -13,8 +13,8 @@ const nav = [
 export default function Sidebar() {
   return (
     <aside className="fixed-sidebar flex flex-col items-center px-[30px] pb-8 pt-[78px]">
-      <img src={avatar} className="h-[132px] w-[132px] rounded-full" alt="Jowok avatar" />
-      <h2 className="mt-8 font-inter text-[29px] font-semibold leading-none text-[#754B4B]">Jowok</h2>
+      <img src={avatar} className="h-[130px] w-[130px] rounded-full" alt="Jowok avatar" />
+      <h2 className="mt-8 font-inter text-[29px] font-semibold leading-none text-[#754B4B]">Yosaw</h2>
       <p className="mt-4 font-inter text-[20px] font-medium text-[#8C5757]">Smart Feeder</p>
 
       <nav className="mt-8 flex w-full flex-col gap-[17px]">

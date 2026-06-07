@@ -1,5 +1,5 @@
 import { useState } from "react";
-import bowl from "../assets/bowl.svg";
+import bowl from "../assets/bowls.png";
 import api from "../services/api";
 
 export default function FeedCard() {

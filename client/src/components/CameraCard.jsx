@@ -1,5 +1,5 @@
 import { FaMicrophone, FaRegSquare, FaCamera } from "react-icons/fa";
-import cameraCat from "../assets/camera-cat.svg";
+import cameraCat from "../assets/fresh.gif";
 
 export default function CameraCard() {
   return (
